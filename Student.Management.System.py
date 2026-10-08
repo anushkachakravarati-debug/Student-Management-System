@@ -193,7 +193,7 @@ class StudentManagementSystem:
 
 system = StudentManagementSystem()
 
-system.load_from_file()  
+system.load_from_file()
 
 while True:
         print("\n====================================================")
